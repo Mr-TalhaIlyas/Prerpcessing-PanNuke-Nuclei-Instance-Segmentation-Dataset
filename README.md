@@ -8,6 +8,13 @@ The dataset is divided into three folds where;
 * Fold 2 contains 2,524 images
 * Fold 3 contains 2,723 images
 
+More info [here](https://jgamper.github.io/PanNukeDataset/)
+
+You can download the dataset form [here](https://warwick.ac.uk/fac/sci/dcs/research/tia/data/pannuke)
+
+Access the paper[here](https://arxiv.org/pdf/2003.10778.pdf)
+
+
 Sample image form original repo
 
 ![alt text](https://github.com/Mr-TalhaIlyas/Prerpcessing-PanNuke-Nuclei-Instance-Segmentation-Dataset/blob/master/screens/img1.png)
@@ -15,11 +22,6 @@ Sample image form original repo
 Three different dataset splits are then made based on these three folds. Tow folds of data
 are used for training/validation and one for testing set.
 
-More info [here](https://jgamper.github.io/PanNukeDataset/)
-
-You can download the dataset form [here](https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke)
-
-Access the paper[here](https://arxiv.org/pdf/2003.10778.pdf)
 
 ## Preporcessing 
 
