@@ -14,7 +14,7 @@ More info [here](https://jgamper.github.io/PanNukeDataset/)
 
 You can download the dataset form [here](https://warwick.ac.uk/fac/sci/dcs/research/tia/data/pannuke)
 
-Access the paper[here](https://arxiv.org/pdf/2003.10778.pdf)
+Access the paper [TSFD](https://www.sciencedirect.com/science/article/pii/S0893608022000612) and [original](https://arxiv.org/pdf/2003.10778.pdf) 
 
 
 Sample image form original repo
